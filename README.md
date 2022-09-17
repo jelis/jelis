@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jelis
-- 👀 I’m interested in socket io, nodejs, vue, angularm webAR
+- 👀 I’m interested in socket io, nodejs, vue, angular webAR
 - 🌱 I’m currently learning webAR
 - 💞️ I’m looking to collaborate on amazing web project 
 - 📫 How to reach me eslohntsichdoch@gmail.com
