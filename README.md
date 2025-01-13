@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jelis
-- 👀 I’m interested in socket io, nodejs, vue, angular webAR
-- 🌱 I’m currently learning webAR
-- 💞️ I’m looking to collaborate on amazing web project 
-- 📫 How to reach me eslohntsichdoch@gmail.com
+- 👀 Passionate about artificial intelligence, exploring technologies like Python, OpenAI APIs, ChatGPT, Claude AI, and TensorFlow.
+- 🌱 Currently learning more about AI-driven development and building innovative projects.
+- 💡 Open to collaborating on AI-focused applications and tools.
+- 📫 Let’s connect! Reach me at eslohntsichdoch@gmail.com
 
 <!---
 jelis/jelis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
